@@ -123,11 +123,11 @@ public class NewJFrame extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void congActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_congActionPerformed
-        
+        calculate('+');
     }//GEN-LAST:event_congActionPerformed
 
     private void nhanActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_nhanActionPerformed
-        
+        calculate('*');
     }//GEN-LAST:event_nhanActionPerformed
 
     private void truActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_truActionPerformed
